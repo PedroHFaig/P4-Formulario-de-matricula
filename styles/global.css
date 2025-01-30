@@ -27,3 +27,7 @@
     --title-head3: 700 1.25rem/1.2 var(--font-family);
     --title-head4: 700 1rem/1.2 var(--font-family);
 }
+
+body {
+    overflow: hidden;
+}
