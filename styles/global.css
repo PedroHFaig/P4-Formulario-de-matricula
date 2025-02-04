@@ -22,11 +22,13 @@
     --stroke-highlight: #F3541C;
 
     --semantic-error: #DC2626;    
+    --semantic-error: #DC2626;    
 
     --title-head1: 700 2rem/1.2 var(--font-family);
     --title-head2: 700 1.5rem/1.2 var(--font-family);
     --title-head3: 700 1.25rem/1.2 var(--font-family);
     --title-head4: 700 1rem/1.2 var(--font-family);
+    --semantic-error: #DC2626;
 }
 
 body {
